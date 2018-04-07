@@ -1,0 +1,11 @@
+categories 
+  name 
+users
+  name 
+  email 
+  password
+posts 
+  title 
+  content 
+  user_id 
+  category_id
